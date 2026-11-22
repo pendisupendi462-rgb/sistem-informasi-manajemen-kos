@@ -109,12 +109,14 @@ Project ini bertujuan untuk membantu pemilik kos dalam mengelola data kamar, pen
 <h1 align="center">PROJECT CHARTER</h1>
 
 <div align="center">
-  <img src="NAMA-FILE-GAMBAR.png" width="100%">
+  <img src="./Banner%20Futuristik%20Profil%20Project%20Kelompok%207.png" width="100%">
 </div>
   <h3>KELOMPOK 7</h3>
   <p>DEVELOP • COLLABORATE • INNOVATE</p>
   <p>Universitas Samudera</p>
-</div># PROJECT CHARTER
+</div>
+
+---
 ## SISTEM INFORMASI MANAJEMEN KOS
 **Kelompok 7 – Rekayasa Perangkat Lunak**
 
