@@ -157,7 +157,7 @@ Mengkoordinasikan anggota dan mengawasi jalannya proyek.
 <br><br>
 
 <a href="https://github.com/difahani21-ux">
-<img src="https://github.com/difahani.jpeg?size=160" width="125" alt="Difa Hani Sakila">
+<img src="https://github.com/difahani.jpeg?size=160" width="125" alt="difahani">
 </a>
 
 <br>
