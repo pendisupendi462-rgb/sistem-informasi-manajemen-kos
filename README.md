@@ -230,6 +230,7 @@ DEVELOP • COLLABORATE • INNOVATE
 <br><br>
 
 <a href="PROJECT_PROFILE.md">EXPLORE PROJECT PROFILE →</a>
+<a href="PROJECT_Charter.md">EXPLORE PROJECT PROFILE →</a>
 
 </div>
 
