@@ -7,7 +7,7 @@
 
 <img src="assets/logo.png" width="180" alt="Logo Kelompok 8">
 
-<h1>KELOMPOK 8</h1>
+<h1>KELOMPOK 7</h1>
 
 <h3>DEVELOP • COLLABORATE • INNOVATE</h3>
 
@@ -21,7 +21,7 @@
 
 ## About Us
 
-Kami adalah kelompok 8 dari mata kuliah Rekayasa Perangkat Lunak.
+Kami adalah kelompok 7 dari mata kuliah Rekayasa Perangkat Lunak.
 
 ## Our Team
 
