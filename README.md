@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="Banner Futuristik Profil Project Kelompok 7.png"
+       width="100%"
+       alt="Profil Project Kelompok 7">
+</div>
 <div align="center">
 
 <img src="assets/banner.png" width="100%" alt="Kelompok 8 Banner">
