@@ -10,6 +10,13 @@
 <h1>SISTEM INFORMASI MANAJEMEN KOS</h1>
 
 <h3>KELOMPOK 7 | REKAYASA PERANGKAT LUNAK</h3>
+<h3>KELOMPOK 7</h3>
+
+<p><b>MATA KULIAH</b><br>
+Rekayasa Perangkat Lunak</p>
+
+<p><b>DOSEN PENGAMPU</b><br>
+Cut Alna Fadhillah, S.Kom., M.Sc.</p>
 
 <p><b>Kelola Kos Lebih Mudah, Praktis dan Modern</b></p>
 
