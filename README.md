@@ -157,7 +157,7 @@ Mengkoordinasikan anggota dan mengawasi jalannya proyek.
 <br><br>
 
 <a href="https://github.com/difahani21-ux">
-<img src="https://github.com/USERNAME_DIFA.png?size=160" width="125" alt="Difa Hani Sakila">
+<img src="https://github.com/difahani.jpeg?size=160" width="125" alt="Difa Hani Sakila">
 </a>
 
 <br>
@@ -193,7 +193,7 @@ Menyusun dokumentasi dan mencatat perkembangan proyek.
 <br><br>
 
 <a href="https://github.com/mardatila1013-svg">
-<img src="https://github.com/USERNAME_MARDHATILLA.png?size=160" width="125" alt="Mardhatilla">
+<img src="https://github.com/tilla.jpeg?size=160" width="125" alt="Mardhatilla">
 </a>
 
 <br>
