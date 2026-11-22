@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="Banner Futuristik Profil Project Kelompok 7.png"
-       width="100%"
-       alt="Profil Project Kelompok 7">
+
 </div>
 <div align="center">
 
@@ -42,3 +39,8 @@ Kami adalah kelompok 7 dari mata kuliah Rekayasa Perangkat Lunak.
 - CSS
 - JavaScript
 - Git & GitHub
+- <div align="center">
+  <img src="Banner Futuristik Profil Project Kelompok 7.png"
+       width="100%"
+       alt="Profil Project Kelompok 7">
+</div>
