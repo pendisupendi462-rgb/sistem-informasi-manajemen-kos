@@ -122,7 +122,7 @@ Pengelolaan kos yang masih dilakukan secara manual dapat menyebabkan kesulitan d
 
 <br><br>
 
-<a href="https://github.com/USERNAME_SUPENDI">
+<a href="https://github.com/pendisupendi462-rgb">
 <img src="https://github.com/USERNAME_SUPENDI.png?size=160" width="125" alt="Supendi">
 </a>
 
@@ -144,7 +144,7 @@ Mengkoordinasikan anggota dan mengawasi jalannya proyek.
 
 <br>
 
-<a href="https://github.com/USERNAME_SUPENDI">
+<a href="https://github.com/pendisupendi462-rgb">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -156,7 +156,7 @@ Mengkoordinasikan anggota dan mengawasi jalannya proyek.
 
 <br><br>
 
-<a href="https://github.com/USERNAME_DIFA">
+<a href="https://github.com/difahani21-ux">
 <img src="https://github.com/USERNAME_DIFA.png?size=160" width="125" alt="Difa Hani Sakila">
 </a>
 
@@ -178,7 +178,7 @@ Menyusun dokumentasi dan mencatat perkembangan proyek.
 
 <br>
 
-<a href="https://github.com/USERNAME_DIFA">
+<a href="https://github.com/difahani21-ux">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -192,7 +192,7 @@ Menyusun dokumentasi dan mencatat perkembangan proyek.
 
 <br><br>
 
-<a href="https://github.com/USERNAME_MARDHATILLA">
+<a href="https://github.com/mardatila1013-svg">
 <img src="https://github.com/USERNAME_MARDHATILLA.png?size=160" width="125" alt="Mardhatilla">
 </a>
 
@@ -214,7 +214,7 @@ Mengembangkan fitur dan menulis kode program.
 
 <br>
 
-<a href="https://github.com/USERNAME_MARDHATILLA">
+<a href="https://github.com/mardatila1013-svg">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -226,7 +226,7 @@ Mengembangkan fitur dan menulis kode program.
 
 <br><br>
 
-<a href="https://github.com/USERNAME_RIDHO">
+<a href="https://github.com/ranealda">
 <img src="https://github.com/USERNAME_RIDHO.png?size=160" width="125" alt="Ridho Agung Sadiva">
 </a>
 
@@ -248,7 +248,7 @@ Merancang tampilan dan pengalaman pengguna sistem.
 
 <br>
 
-<a href="https://github.com/USERNAME_RIDHO">
+<a href="https://github.com/ranealda">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-24292E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
